@@ -1,0 +1,7 @@
+install react router for multipages
+
+
+rafc to create component
+
+
+useStateSnippet : to make autocomplete os useSate cons
